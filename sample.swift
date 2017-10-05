@@ -1,3 +1,5 @@
+//Is this a good code which you can rely on??
+
 func checkName(personName name: String, password pass: Int) -> String {
 	return "\(name)! Your password is \(pass)"
 }
