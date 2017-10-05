@@ -1,6 +1,5 @@
 # test-repo
-Testing Repository
+#Testing Repository
 
-Hey what's up shauty! 
-My name is Saurabh Mirajkar.
-I have created this repository for testing purpose.
+##My name is Saurabh Mirajkar.
+###I have created this repository for testing purpose.
