@@ -17,3 +17,4 @@ if name = "Saurabh" && password = 10 {
 }
 
 checkName(personName = "Saurabh", password = 10)
+print("Hello Saurabh")
